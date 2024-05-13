@@ -22,6 +22,10 @@ h2 {
     border-radius: 4px;
 }
 
+h2 span {
+    color: greenyellow;
+}
+
 span {
     color: orange;
 }
@@ -33,4 +37,8 @@ a {
     display: inline-block;
     border-radius: 4px;
     text-decoration: none;
+}
+
+p {
+    font-size: 20px;
 }
