@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+}
+
+.item {
+    background-color: black;
+    border: 20px;
+    color: white;
+    padding: 20px;
+    margin: 50px;
+    /* margin: 200px 100px 100px 300px; */
+    /* margin-bottom: 200px; */
+    border-radius: 4px;
+}
+
+span {
+    color: orange;
+}
+
+a {
+    background: orange;
+    color: brown;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 4px;
+    text-decoration: none;
+}
